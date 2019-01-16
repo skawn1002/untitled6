@@ -1,4 +1,4 @@
-package Study;
+package week11;
 import java.util.Scanner;
 
 public class if_9498 {
